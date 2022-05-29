@@ -1,8 +1,8 @@
 40
-typeof 40
-typeof "pedro"
-typeof null
-typeof undefined
+print(typeof(40))
+print(typeof("pedro"))
+print(typeof (null))
+print(typeof (undefined))
 typeof true
-typeof []
-typeof {}
+typeof [1,2,3]
+typeof {nombre: "Diego"}
